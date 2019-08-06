@@ -9,7 +9,7 @@ a trained model for new x's approximations training.h5.
 
 Build EPRP-1.4:
 
-In order to build EPPR-1.3 you will need to install the GSL library package https://www.gnu.org/software/gsl/.
+In order to build EPPR-1.4 you will need to install the GSL library package https://www.gnu.org/software/gsl/.
 
 git clone https://github.com/mariiavasileva/EPPR-1.4.git
 
