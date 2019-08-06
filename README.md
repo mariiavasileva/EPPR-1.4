@@ -11,7 +11,7 @@ Build EPRP-1.4:
 
 In order to build EPPR-1.3 you will need to install the GSL library package https://www.gnu.org/software/gsl/.
 
-git clone https://github.com/mariiavasileva/EPPR-1.3.git
+git clone https://github.com/mariiavasileva/EPPR-1.4.git
 
 cd EPRP-1.4
 
